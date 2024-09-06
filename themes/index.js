@@ -18,6 +18,12 @@ export const themes = {
     text_color: "417E87",
     bg_color: "ffffff00",
   },
+  zide: {
+    title_color: "7957d5",
+    icon_color: "ff3860",
+    text_color: "363636",
+    bg_color: "ffffff00",
+  },
   shadow_red: {
     title_color: "9A0000",
     text_color: "444",
